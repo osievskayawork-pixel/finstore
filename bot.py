@@ -34,7 +34,7 @@ WEBINAR_DATETIME = datetime(2026, 4, 30, 19, 0)   # год, месяц, день
 # file_id чек-листа — получи, отправив файл боту @userinfobot или своему боту
 CHECKLIST_FILE_ID = "BQACAgIAAxkBAAI..."   # TODO: вставь реальный file_id
 
-ADMIN_ID = 123456789                       # Твой Telegram ID для уведомлений о заявках
+ADMIN_ID = 396728532                       # Твой Telegram ID для уведомлений о заявках
 # ============================================================
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
