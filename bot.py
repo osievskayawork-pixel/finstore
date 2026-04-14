@@ -23,7 +23,7 @@ BOT_TOKEN        = "8740029080:AAF1v_T-uA4NkyEkULJh3zdSvGaZJ8dgC-s"
 CHANNEL_ID       = "@tellusell"           # username или -100123456789
 CHANNEL_LINK     = "https://t.me/твой_канал"
 
-WEBINAR_NAME     = "Как выйти на [Результат] за 30 дней"
+WEBINAR_NAME     = "Я один думаю, что в трейдинг лучше не лезть?"
 WEBINAR_TOPIC    = "этой теме"             # для вопроса про уровень
 WEBINAR_DATE_STR = "30 апреля в 19:00 "
 WEBINAR_LINK     = "https://ссылка-на-трансляцию.com"
