@@ -20,8 +20,8 @@ from apscheduler.schedulers.asyncio import AsyncIOScheduler
 #  НАСТРОЙКИ — заполни перед запуском
 # ============================================================
 BOT_TOKEN        = "8740029080:AAF1v_T-uA4NkyEkULJh3zdSvGaZJ8dgC-s"
-CHANNEL_ID       = "@tellusell"           # username или -100123456789
-CHANNEL_LINK     = "https://t.me/твой_канал"
+CHANNEL_ID       = "finstore_official"           # username или -100123456789
+CHANNEL_LINK     = "https://t.me/finstore_official"
 
 WEBINAR_NAME     = "Я один думаю, что в трейдинг лучше не лезть?"
 WEBINAR_TOPIC    = "этой теме"             # для вопроса про уровень
