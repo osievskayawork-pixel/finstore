@@ -25,11 +25,11 @@ CHANNEL_LINK     = "https://t.me/твой_канал"
 
 WEBINAR_NAME     = "Как выйти на [Результат] за 30 дней"
 WEBINAR_TOPIC    = "этой теме"             # для вопроса про уровень
-WEBINAR_DATE_STR = "25 июля в 19:00 МСК"
+WEBINAR_DATE_STR = "30 апреля в 19:00 "
 WEBINAR_LINK     = "https://ссылка-на-трансляцию.com"
 
 # Дата и время вебинара (для планировщика напоминаний)
-WEBINAR_DATETIME = datetime(2025, 7, 25, 19, 0)   # год, месяц, день, час, мин
+WEBINAR_DATETIME = datetime(2026, 4, 30, 19, 0)   # год, месяц, день, час, мин
 
 # file_id чек-листа — получи, отправив файл боту @userinfobot или своему боту
 CHECKLIST_FILE_ID = "BQACAgIAAxkBAAI..."   # TODO: вставь реальный file_id
