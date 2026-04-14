@@ -20,7 +20,7 @@ from apscheduler.schedulers.asyncio import AsyncIOScheduler
 #  НАСТРОЙКИ — заполни перед запуском
 # ============================================================
 BOT_TOKEN        = 8740029080:AAF1v_T-uA4NkyEkULJh3zdSvGaZJ8dgC-s
-CHANNEL_ID       = "@твой_канал"           # username или -100123456789
+CHANNEL_ID       = "@tellusell"           # username или -100123456789
 CHANNEL_LINK     = "https://t.me/твой_канал"
 
 WEBINAR_NAME     = "Как выйти на [Результат] за 30 дней"
